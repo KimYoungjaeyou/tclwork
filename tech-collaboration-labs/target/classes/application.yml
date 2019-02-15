@@ -1,0 +1,6 @@
+server:
+  port: 8082
+   
+elasticsearch:
+  host: 169.56.92.34
+  port: 9200
